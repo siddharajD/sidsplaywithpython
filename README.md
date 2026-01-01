@@ -105,12 +105,6 @@ The techniques covered in this notebook are **fundamental to every machine learn
 ### **Time Series Analysis**
 - Many real-world problems involve temporal data (stock prices, sensor readings, user behavior). Understanding time series manipulation is essential for forecasting and sequence models.
 
-### **Model Evaluation**
-- After training models, Pandas facilitates comparing predictions with actual values, calculating metrics, and analyzing model performance across different segments.
-
-### **Data Pipeline Integration**
-- Skills in importing/exporting data in various formats ensure seamless integration with databases, APIs, and other data sources in production ML pipelines.
-
 ---
 
 ## Key Takeaways
